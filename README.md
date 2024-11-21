@@ -12,7 +12,8 @@ description of home decore item
 
    
  </table>
-
+<br>
+<p>Home decoration is indian architecture </p>
 
 
 
